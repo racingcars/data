@@ -1,0 +1,1 @@
+public GUIStyle[] player;
