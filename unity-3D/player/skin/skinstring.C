@@ -1,1 +1,1 @@
-<string><mustang<string>{originalskin£
+<string><mustang<string>{originalskin}
